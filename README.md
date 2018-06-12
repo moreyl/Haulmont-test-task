@@ -3,9 +3,9 @@
 !
 
 
-![](https://savepice.ru/full/2018/6/12/0742556fa29982cc32da75147c2a141d-full.jpg)
+![](http://priscree.ru/img/87efed758df770.jpg)
 
-![](https://savepice.ru/full/2018/6/12/f31dac608e04a2526fade63c7037829c-full.jpg)
+![](http://priscree.ru/img/ac56fe09a5b735.jpg)
 
 
 How to run the project:
